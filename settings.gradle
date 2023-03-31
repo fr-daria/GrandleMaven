@@ -1,0 +1,5 @@
+rootProject.name = 'GrandleMaven'
+include 'api'
+include 'db'
+include 'service'
+
